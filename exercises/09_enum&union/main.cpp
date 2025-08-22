@@ -1,4 +1,5 @@
 #include "../exercise.h"
+#include <cstring>
 
 // READ: 枚举类型 <https://zh.cppreference.com/w/cpp/language/enum>
 
